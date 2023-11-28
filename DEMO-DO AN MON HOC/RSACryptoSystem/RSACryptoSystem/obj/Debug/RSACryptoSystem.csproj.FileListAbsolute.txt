@@ -1,0 +1,10 @@
+D:\MẬT MÃ HỌC\RSACryptoSystem\RSACryptoSystem\bin\Debug\RSACryptoSystem.exe.config
+D:\MẬT MÃ HỌC\RSACryptoSystem\RSACryptoSystem\bin\Debug\RSACryptoSystem.exe
+D:\MẬT MÃ HỌC\RSACryptoSystem\RSACryptoSystem\bin\Debug\RSACryptoSystem.pdb
+D:\MẬT MÃ HỌC\RSACryptoSystem\RSACryptoSystem\obj\Debug\RSACryptoSystem.csproj.AssemblyReference.cache
+D:\MẬT MÃ HỌC\RSACryptoSystem\RSACryptoSystem\obj\Debug\RSACryptoSystem.Form1.resources
+D:\MẬT MÃ HỌC\RSACryptoSystem\RSACryptoSystem\obj\Debug\RSACryptoSystem.Properties.Resources.resources
+D:\MẬT MÃ HỌC\RSACryptoSystem\RSACryptoSystem\obj\Debug\RSACryptoSystem.csproj.GenerateResource.cache
+D:\MẬT MÃ HỌC\RSACryptoSystem\RSACryptoSystem\obj\Debug\RSACryptoSystem.csproj.CoreCompileInputs.cache
+D:\MẬT MÃ HỌC\RSACryptoSystem\RSACryptoSystem\obj\Debug\RSACryptoSystem.exe
+D:\MẬT MÃ HỌC\RSACryptoSystem\RSACryptoSystem\obj\Debug\RSACryptoSystem.pdb

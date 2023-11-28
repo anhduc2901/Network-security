@@ -1,0 +1,5 @@
+Đã làm tất cả các bài 
+bài 1 + 6 : code (file)
+2         : trong file báo cáo
+3,4 	  : làm trên ubuntu (prebuilt of Seed) - "SEEDUbuntu-16.04-32bit"
+5         : openssl (file) 

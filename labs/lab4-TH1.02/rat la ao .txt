@@ -1,0 +1,13 @@
+https://www.tenable.com/blog/limiting-the-ports-probed-by-nessus-scans
+NVT : Network Vulnerable Tests
+CVE : Common Platform Enumeration
+OVAL : Open vulnerability && Assessment Language
+CVSS : Common Vulnerability Scoring System
+
+
+https://www.youtube.com/watch?v=LGh2SetiKaY&ab_channel=GetCyber
+https://www.youtube.com/watch?v=ZJcEWx9mlng&ab_channel=GetCyber
+https://drive.google.com/drive/folders/13-7ZBDWmmo6Smnh18AihOWeSAv8zKLml
+
+
+e9f9c388-58ef-47d1-ae4b-e117e37008a1

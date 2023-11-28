@@ -1,0 +1,4 @@
+https://www.thecrazyprogrammer.com/2016/11/caesar-cipher-c-c-encryption-decryption.html
+https://www.youtube.com/watch?v=RuT-1o5zluI
+https://github.com/VoxelPixel/CiphersInCplusplus
+https://www.geeksforgeeks.org/playfair-cipher-with-examples/?fbclid=IwAR0LHA0bkqe6OJzLurZJOpL_T2zwyEdoMnUmRc7n5zg5wSQcM4nEAQE6gi0
